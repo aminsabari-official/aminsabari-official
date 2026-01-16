@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&h=300&q=80" width="100%" style="border-radius: 10px; object-fit: cover;">
-</p>
-
 <table border="0">
   <tr>
     <td width="30%" align="center">
