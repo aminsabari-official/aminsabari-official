@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Amin%20Sabari&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=7A7ADB&height=200&section=header&text=Amin%20Sabari&fontSize=70&animation=fadeIn" />
 </p>
+
+![Views](https://komarev.com/ghpvc/?username=aminsabari-official&color=blueviolet)
 
 ![Views](https://komarev.com/ghpvc/?username=aminsabari-official&color=blueviolet)
 
