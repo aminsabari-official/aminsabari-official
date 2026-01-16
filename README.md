@@ -43,7 +43,7 @@
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=aminsabari-official&theme=radical&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aminsabari-official&theme=flat&column=4)
 
 ### 📉 Contribution Graph
 ![Amin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
