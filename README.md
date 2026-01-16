@@ -1,7 +1,6 @@
-# ![Banner](https://capsule-render.vercel.app/render?type=waving&color=7A7ADB&height=200&section=header&text=Amin%20Sabari&fontSize=70)
+![Banner](https://res.cloudinary.com/dxfq3iotg/image/upload/v1619706139/GitHub/Banner_Amin_Sabari.png)
 
 ![Views](https://komarev.com/ghpvc/?username=aminsabari-official&color=blueviolet)
-
 
 <table border="0">
   <tr>
