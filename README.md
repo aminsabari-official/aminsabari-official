@@ -68,15 +68,6 @@
 </p>
 
 
-
-<h3 align="center">📊 My GitHub Performance</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
-
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminsabari)
