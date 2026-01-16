@@ -1,7 +1,3 @@
-![Banner](https://res.cloudinary.com/dxfq3iotg/image/upload/v1619706139/GitHub/Banner_Amin_Sabari.png)
-
-![Views](https://komarev.com/ghpvc/?username=aminsabari-official&color=blueviolet)
-
 <table border="0">
   <tr>
     <td width="30%" align="center">
@@ -36,8 +32,8 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### ⏰ Weekly Activity
-![Habit](https://github-readme-stats.vercel.app/api/wakatobi?username=aminsabari-official&layout=compact&theme=radical)
+### 🐍 My Contributions
+![Snake animation](https://github-readme-stats.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical&hide_border=true&display_format=v2)
 
 ### 🎓 Certifications & Language
 * **Certified Data Scientist** – Official by **BNSP**
