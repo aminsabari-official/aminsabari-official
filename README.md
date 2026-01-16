@@ -1,17 +1,30 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Amin%20Sabari&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
+</div>
+
 <table border="0">
   <tr>
-    <td width="300">
-      <img src="amin_sabari.jpg" width="100%" alt="Amin Sabari" />
+    <td width="30%" align="center">
+      <img src="amin_sabari.jpg" width="250" style="border-radius: 15px;" />
+      <br><br>
+      <img src="https://komarev.com/ghpvc/?username=aminsabari-official&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
     </td>
-    <td width="700" valign="top" style="padding-left: 20px;">
-      <h1>Hi, I'm Amin Sabari 👋</h1>
-      <h3>Strategic Operations Leader | Data Scientist | Automation & AI Enthusiast</h3>
+    <td width="70%" valign="top">
+      <h1>Hi there! I'm Amin Sabari 👋</h1>
+      <p><b>Strategic Operations Leader | Certified Data Scientist | ERP & Automation Specialist</b></p>
       <p align="justify">
-        I bridge the gap between business strategy and technology by leveraging data-driven insights and AI-powered automation to scale operations.
+        I specialize in bridging the gap between complex data and strategic business decisions. With a strong background in Operational Excellence and Data Science, I help organizations scale through automation and AI-driven insights.
+      </p>
+      <p>
+        🔭 <b>Focus:</b> Operational Strategy & Business Intelligence<br>
+        🌱 <b>Learning:</b> Advanced Machine Learning & Cloud Integration<br>
+        💼 <b>Tools:</b> Oracle EBS, SAP, Python, SQL, R
       </p>
     </td>
   </tr>
 </table>
+
+---
 
 ### 🚀 What I Do
 * **Strategic Operations**: Optimizing business workflows and scaling organizational efficiency.
