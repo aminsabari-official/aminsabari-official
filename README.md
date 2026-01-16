@@ -7,7 +7,6 @@
     </td>
     <td width="70%" style="padding-left: 20px;">
       <h1>Hi, I'm Amin Sabari 👋</h1>
-      "Turning complex data into strategic operational excellence."
       <p><strong>Strategic Operations Leader | Data Scientist | Automation & AI Enthusiast</strong></p>
       <p>I bridge the gap between business strategy and technology by leveraging data-driven insights and AI-powered automation to scale operations.</p>
     </td>
@@ -28,7 +27,10 @@
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
