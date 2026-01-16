@@ -11,11 +11,6 @@
   </tr>
 </table>
 
-# Hi, I'm Amin Sabari 👋
-**Strategic Operations Leader | Data Scientist | Automation & AI Enthusiast**
-
-I bridge the gap between business strategy and technology by leveraging data-driven insights and AI-powered automation to scale operations.
-
 ### 🚀 What I Do
 * **Strategic Operations**: Optimizing business workflows and scaling organizational efficiency.
 * **Data Science**: Transforming raw data into actionable strategic insights using Python and SQL.
