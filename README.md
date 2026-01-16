@@ -16,10 +16,25 @@
 * **Data Science**: Transforming raw data into actionable strategic insights using Python and SQL.
 * **Automation & AI/ML**: Building RPA (Robotic Process Automation) and Machine Learning models to eliminate manual bottlenecks.
 
+### 🔭 Current Focus
+* 🔭 I’m currently working on **Optimizing Operational Workflows using AI**
+* 🌱 I’m currently learning **Advanced Predictive Analytics & Big Data**
+* 💬 Ask me about **Data-Driven Strategy or Business Intelligence**
+
 ### 🛠 Tech Stack
 * **Data/AI**: Python (Pandas, Scikit-learn), SQL, TensorFlow.
 * **Operations**: Lean Six Sigma, Project Management (Agile/Scrum).
 * **Automation**: Selenium, Zapier, Power Automate.
+
+### 🎓 Certifications & Language
+* **Certified Data Scientist** – Official by **BNSP**
+* **Certified Business Intelligence Analyst** – Official by **BNSP**
+* **Certified Data Analyst** – Official by **BNSP**
+* **TOEFL ITP: Advanced Level (Score: 660)** – Official by **ETS**
+
+### 📊 GitHub Stats
+![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical)
 
 ### 📬 Connect with Me
 * **LinkedIn**: linkedin.com/in/aminsabari
