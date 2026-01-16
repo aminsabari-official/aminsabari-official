@@ -34,10 +34,17 @@
 
 ### 📊 GitHub Stats
 
+
 ![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical)
 
+
 ### 📬 Connect with Me
-* **LinkedIn**: linkedin.com/in/aminsabari
+* **LinkedIn**: https://linkedin.com/in/aminsabari
+* **Portfolio**: https://bit.ly/AminSabari-Certs-Portfolio
+* **Email**: aminsabari0211@gmail.com 
+
+### 📬 Connect with Me
+* **LinkedIn**: https://linkedin.com/in/aminsabari
 * **Portfolio**: https://bit.ly/AminSabari-Certs-Portfolio
 * **Email**: aminsabari0211@gmail.com
