@@ -31,24 +31,6 @@
 * **Data Science**: Transforming raw data into actionable strategic insights using Python and SQL.
 * **Automation & AI/ML**: Building RPA (Robotic Process Automation) and Machine Learning models to eliminate manual bottlenecks.
 
-* ## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <p align="center"><b>Operational Dashboard</b></p>
-      <img src="https://via.placeholder.com/400x200?text=Project+Thumbnail" width="100%" />
-      <p>Automating supply chain metrics using Python & Tableau to reduce lead time by 15%.</p>
-      <p align="center"><a href="#">View Project</a></p>
-    </td>
-    <td>
-      <p align="center"><b>Predictive Analytics for Sales</b></p>
-      <img src="https://via.placeholder.com/400x200?text=Project+Thumbnail" width="100%" />
-      <p>Developing machine learning models to forecast monthly demand with 92% accuracy.</p>
-      <p align="center"><a href="#">View Project</a></p>
-    </td>
-  </tr>
-</table>
 
 ### 🔭 Current Focus
 * 🔭 I’m currently working on **Optimizing Operational Workflows using AI**
@@ -66,8 +48,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-### 🐍 My Contributions
-![Snake animation](https://github-readme-stats.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical&hide_border=true&display_format=v2)
 
 ### 🎓 Certifications & Language
 * **Certified Data Scientist** – Official by **BNSP**
