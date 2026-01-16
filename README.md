@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bbbda546697a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" width="100%" alt="Operations Banner" />
-</p>
+![Header](https://raw.githubusercontent.com/aminsabari-official/aminsabari-official/main/amin_sabari.jpg)
 
 <table border="0">
   <tr>
@@ -30,6 +28,25 @@
 * **Strategic Operations**: Optimizing business workflows and scaling organizational efficiency.
 * **Data Science**: Transforming raw data into actionable strategic insights using Python and SQL.
 * **Automation & AI/ML**: Building RPA (Robotic Process Automation) and Machine Learning models to eliminate manual bottlenecks.
+
+* ## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><b>Operational Dashboard</b></p>
+      <img src="https://via.placeholder.com/400x200?text=Project+Thumbnail" width="100%" />
+      <p>Automating supply chain metrics using Python & Tableau to reduce lead time by 15%.</p>
+      <p align="center"><a href="#">View Project</a></p>
+    </td>
+    <td>
+      <p align="center"><b>Predictive Analytics for Sales</b></p>
+      <img src="https://via.placeholder.com/400x200?text=Project+Thumbnail" width="100%" />
+      <p>Developing machine learning models to forecast monthly demand with 92% accuracy.</p>
+      <p align="center"><a href="#">View Project</a></p>
+    </td>
+  </tr>
+</table>
 
 ### 🔭 Current Focus
 * 🔭 I’m currently working on **Optimizing Operational Workflows using AI**
