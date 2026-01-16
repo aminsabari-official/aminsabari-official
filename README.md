@@ -41,9 +41,9 @@
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical)
 
 
-### 📈 Activity Graph
+### 🏆 GitHub Trophies
 
-![Amin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aminsabari-official&theme=radical&margin-w=15&no-bg=true)
 
 
 ### 📉 Contribution Graph
