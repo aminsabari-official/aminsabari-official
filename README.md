@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Amin%20Sabari&fontSize=70&animation=fadeIn" />
+</p>
+
 ![Views](https://komarev.com/ghpvc/?username=aminsabari-official&color=blueviolet)
 
 <table border="0">
@@ -34,6 +38,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
+### ⏰ Weekly Activity
+![Habit](https://github-readme-stats.vercel.app/api/wakatobi?username=aminsabari-official&layout=compact&theme=radical)
+
 ### 🎓 Certifications & Language
 * **Certified Data Scientist** – Official by **BNSP**
 * **Certified Business Intelligence Analyst** – Official by **BNSP**
@@ -46,16 +53,16 @@
 ![Amin's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminsabari-official&theme=radical)
 
+
+### 📊 My GitHub Performance
+
+| Statistic | Top Languages |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical) |
 
 ### 📈 Activity Graph
-
-![Amin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
-
-
-### 📉 Contribution Graph
-![Amin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
 
 ### 📬 Connect with Me
 
