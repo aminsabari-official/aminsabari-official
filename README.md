@@ -56,11 +56,16 @@
 * **Certified Data Analyst** – Official by **BNSP**
 * **TOEFL ITP: Advanced Level (Score: 660)** – Official by **ETS**
 
-### 📊 GitHub Stats
+### 📊 My Technical Performance
 
+<p align="center">
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical&hide_border=true&title_color=00b4d8" height="170" />
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical&hide_border=true&title_color=00b4d8" height="170" />
+</p>
 
-![Amin's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical&bg_color=0D1117&hide_border=true&color=00b4d8" width="100%" />
+</p>
 
 
 
