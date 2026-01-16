@@ -14,6 +14,6 @@ I bridge the gap between business strategy and technology by leveraging data-dri
 * **Automation**: Selenium, Zapier, Power Automate.
 
 ### 📬 Connect with Me
-* **LinkedIn**: [Masukkan Link LinkedIn Anda]
-* **Portfolio**: [Link Google Drive/Portfolio Anda]
+* **LinkedIn**: linkedin.com/in/aminsabari
+* **Portfolio**: https://bit.ly/AminSabari-Certs-Portfolio
 * **Email**: aminsabari0211@gmail.com
