@@ -1,12 +1,14 @@
 <table border="0">
   <tr>
-    <td width="30%" align="center">
-      <img src="amin_sabari.jpg" width="100%" style="border-radius: 10px;">
+    <td width="300">
+      <img src="amin_sabari.jpg" width="100%" alt="Amin Sabari" />
     </td>
-    <td width="70%" style="padding-left: 20px;">
+    <td width="700" valign="top" style="padding-left: 20px;">
       <h1>Hi, I'm Amin Sabari 👋</h1>
-      <p><strong>Strategic Operations Leader | Data Scientist | Automation & AI Enthusiast</strong></p>
-      <p>I bridge the gap between business strategy and technology by leveraging data-driven insights and AI-powered automation to scale operations.</p>
+      <h3>Strategic Operations Leader | Data Scientist | Automation & AI Enthusiast</h3>
+      <p align="justify">
+        I bridge the gap between business strategy and technology by leveraging data-driven insights and AI-powered automation to scale operations.
+      </p>
     </td>
   </tr>
 </table>
