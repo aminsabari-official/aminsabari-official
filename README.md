@@ -76,12 +76,6 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical&bg_color=0D1117&hide_border=true&color=00b4d8" width="100%" />
-</p>
-
-### 📈 Activity Graph
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
 
 ### 📬 Connect with Me
 
