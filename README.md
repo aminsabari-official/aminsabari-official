@@ -41,7 +41,18 @@
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical)
 
 
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=aminsabari-official&theme=radical&column=4)
+
+### 📉 Contribution Graph
+![Amin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
+
 ### 📬 Connect with Me
 * **LinkedIn**: https://linkedin.com/in/aminsabari
 * **Email**: aminsabari0211@gmail.com 
 * **Portfolio**: https://bit.ly/AminSabari-Certs-Portfolio
+
+* ---
+<p align="center">
+  <a href="#top">⬆ Back to Top</a>
+</p>
