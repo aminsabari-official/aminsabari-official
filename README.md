@@ -43,5 +43,5 @@
 
 ### 📬 Connect with Me
 * **LinkedIn**: https://linkedin.com/in/aminsabari
-* **Portfolio**: https://bit.ly/AminSabari-Certs-Portfolio
 * **Email**: aminsabari0211@gmail.com 
+* **Portfolio**: https://bit.ly/AminSabari-Certs-Portfolio
