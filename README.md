@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Amin%20Sabari&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
-</div>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1551288049-bbbda546697a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" width="100%" alt="Operations Banner" />
+</p>
 
 <table border="0">
   <tr>
@@ -69,11 +69,16 @@
 
 
 
-### 📊 My GitHub Performance
+<h3 align="center">📊 My GitHub Performance</h3>
 
-| Statistic | Top Languages |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical) |
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aminsabari-official&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=aminsabari-official&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical&bg_color=0D1117&hide_border=true&color=00b4d8" width="100%" />
+</p>
 
 ### 📈 Activity Graph
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=aminsabari-official&theme=radical)
