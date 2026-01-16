@@ -1,3 +1,5 @@
+![Views](https://komarev.com/ghpvc/?username=aminsabari-official&color=blueviolet)
+
 <table border="0">
   <tr>
     <td width="30%" align="center">
