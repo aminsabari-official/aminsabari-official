@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Amin Sabari 👋
+**Strategic Operations Leader | Data Scientist | Automation & AI Enthusiast**
 
-<!--
-**aminsabari-official/aminsabari-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between business strategy and technology by leveraging data-driven insights and AI-powered automation to scale operations.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+* **Strategic Operations**: Optimizing business workflows and scaling organizational efficiency.
+* **Data Science**: Transforming raw data into actionable strategic insights using Python and SQL.
+* **Automation & AI/ML**: Building RPA (Robotic Process Automation) and Machine Learning models to eliminate manual bottlenecks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Data/AI**: Python (Pandas, Scikit-learn), SQL, TensorFlow.
+* **Operations**: Lean Six Sigma, Project Management (Agile/Scrum).
+* **Automation**: Selenium, Zapier, Power Automate.
+
+### 📬 Connect with Me
+* **LinkedIn**: [Masukkan Link LinkedIn Anda]
+* **Portfolio**: [Link Google Drive/Portfolio Anda]
+* **Email**: aminsabari0211@gmail.com
