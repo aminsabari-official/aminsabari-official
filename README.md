@@ -11,14 +11,14 @@
     </td>
     <td width="70%" valign="top">
       <h1>Hi there! I'm Amin Sabari 👋</h1>
-      <p><b>Strategic Operations | Certified Data Scientist | ERP & Automation Specialist</b></p>
+      <p><b>Business Intelligence | Strategic Operations & Development | Data Analytics | Automation Specialist</b></p>
       <p align="justify">
         I specialize in bridging the gap between complex data and strategic business decisions. With a strong background in Operational Excellence and Data Science, I help organizations scale through automation and AI-driven insights.
       </p>
       <p>
         🔭 <b>Focus:</b> Operational Strategy & Business Intelligence<br>
-        🌱 <b>Learning:</b> Advanced Machine Learning & Cloud Integration<br>
-        💼 <b>Tools:</b> Oracle EBS, SAP, Python, SQL, R
+        🌱 <b>Learning:</b> Business Intelligence, Strategic Operations, Data-Driven Decision Making & Business Development <br>
+        💼 <b>Tools:</b> Oracle EBS, Python, SQL, Power BI, Tableau
       </p>
     </td>
   </tr>
@@ -29,12 +29,11 @@
 ### 🚀 What I Do
 * **Strategic Operations**: Optimizing business workflows and scaling organizational efficiency.
 * **Data Science**: Transforming raw data into actionable strategic insights using Python and SQL.
-* **Automation & AI/ML**: Building RPA (Robotic Process Automation) and Machine Learning models to eliminate manual bottlenecks.
 
 
 ### 🔭 Current Focus
-* 🔭 I’m currently working on **Optimizing Operational Workflows using AI**
-* 🌱 I’m currently learning **Advanced Predictive Analytics & Big Data**
+* 🔭 I’m currently working on **Optimizing Operational Workflows using SQL**
+* 🌱 I’m currently learning **Predictive Analytics**
 * 💬 Ask me about **Data-Driven Strategy or Business Intelligence**
 
 ### 🛠 Tech Stack
@@ -42,8 +41,6 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
