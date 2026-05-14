@@ -11,7 +11,7 @@
     </td>
     <td width="70%" valign="top">
       <h1>Hi there! I'm Amin Sabari 👋</h1>
-      <p><b>Business Intelligence | Strategic Operations & Development | Data Analytics | Automation Specialist</b></p>
+      <p><b>Business Intelligence | Strategic Operations & Development | Data Analytics</b></p>
       <p align="justify">
         I specialize in bridging the gap between complex data and strategic business decisions. With a strong background in Operational Excellence and Data Science, I help organizations scale through automation and AI-driven insights.
       </p>
