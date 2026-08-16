@@ -18,7 +18,7 @@
       <p>
         🔭 <b>Focus:</b> Operational Strategy & Business Intelligence<br>
         🌱 <b>Learning:</b> Business Intelligence, Strategic Operations, Data-Driven Decision Making & Business Development <br>
-        💼 <b>Tools:</b> Oracle EBS, Python, SQL, Power BI, Tableau
+        💼 <b>Tools:</b> Oracle EBS, Python, SQL, Power BI, Tableau, n8n
       </p>
     </td>
   </tr>
