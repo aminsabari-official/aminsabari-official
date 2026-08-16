@@ -44,6 +44,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle_EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 ### 🎓 Certifications & Language
