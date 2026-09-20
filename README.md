@@ -51,7 +51,13 @@
 * **Certified Data Scientist** – Official by **BNSP**
 * **Certified Business Intelligence Analyst** – Official by **BNSP**
 * **Certified Data Analyst** – Official by **BNSP**
+* **Fusion AI Agent Studio** – Official by **Oracle**
+* **Fusion Cloud ERP** – Official by **Oracle**
 * **TOEFL ITP: Advanced Level (Score: 660)** – Official by **ETS**
+
+### 🏆 Achievements
+* **Top 10 Finalist (National)** – DQLab Data Hackathon (Python)
+* **Top 10 Finalist (National)** – DQLab Data Hackathon (SQL)
 
 ### 📊 My Technical Performance
 
